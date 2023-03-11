@@ -1,6 +1,6 @@
 https://user-images.githubusercontent.com/93850511/223541018-2872e189-0343-44db-8bef-626a3f838a8a.mp4
 
-# login
+# Login
 
 Este es el repositorio de código sobre un login hecho con html, css y js.
 
